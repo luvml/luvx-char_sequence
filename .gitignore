@@ -103,3 +103,6 @@ ai-context-guide.md
 # reference_docs_and_examples
 # notes
 test-logs
+
+# PRP folder - may carry user-internal notes and paths, keep out of the public repo
+prp/
